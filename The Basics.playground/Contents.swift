@@ -174,7 +174,7 @@ func checkColorInPalette() {
     return
   }
 
-  print(print("green is present in palette at position \(index)"))
+  print("green is present in palette at position \(index)")
 }
 //guard let is designed to exit the current function, loop, or condition if the check fails.
 
